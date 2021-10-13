@@ -1,0 +1,19 @@
+.information{
+    margin: 50px 200px;
+    background-color: thistle;
+    padding: 30px;
+    border-radius: 20px;
+}
+.btn{
+    text-decoration: none;
+    border: none;
+    border-radius: 20px;
+    background-color: gold;
+    padding: 5px 8px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn:hover{
+    padding: 8px 15px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.698);
+}

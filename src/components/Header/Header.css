@@ -1,0 +1,16 @@
+.click{
+    background-color: black;
+    padding: 20px;
+}
+.click a{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+    color: turquoise;
+    font-weight: 600;
+}
+.click a:hover{
+    padding: 2px 10px;
+    background-color: rgba(64, 224, 208, 0.479);
+    border-radius: 10px;
+}
